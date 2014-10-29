@@ -28,7 +28,7 @@ public class Mercado
 	// Aunque son insertados 6 elementos, el HashSet solo contiene 5
 	// Lo anterior se debe a que un Set no permite elementos duplicados (q)
 
-        System.out.println(" - Lista de mandado con " + pedido.size() + " elementos");
+        System.out.println(" - Lista de pedido con " + pedido.size() + " elementos");
 
 	// Definir Iterator para extraer/imprimir valores 
 
